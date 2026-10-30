@@ -1,4 +1,4 @@
-# Análisis de ECG a partir de la Transformada de Fourier de Corto Plazo
+# Análisis de ECG 
 
 Código del Trabajo de Fin de Grado de María del Pilar Albarrán Villalón (ETSI Industriales, Universidad Politécnica de Madrid), tutorizado por Manuel Mendoza de Haro.
 
